@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ec5fc98-c438-44f6-838a-76ff1f16d9c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/styles/error.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/error.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/preloader.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/preloader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+    <list default="true" id="4ec5fc98-c438-44f6-838a-76ff1f16d9c6" name="Changes" comment="Проект готов">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -47,11 +48,24 @@
       <option name="presentableId" value="Default" />
       <updated>1703609871926</updated>
       <workItem from="1703609878998" duration="400000" />
-      <workItem from="1704624328237" duration="4914000" />
+      <workItem from="1704624328237" duration="5498000" />
     </task>
+    <task id="LOCAL-00001" summary="Проект готов">
+      <option name="closed" value="true" />
+      <created>1704630402754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704630402754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Проект готов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Проект готов" />
   </component>
 </project>
