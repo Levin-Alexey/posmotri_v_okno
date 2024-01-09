@@ -52,7 +52,7 @@ ol {
 .content__details {
   display: flex;
   flex-direction: column;
-  row-gap: 26px;
+  row-gap: 22px;
   inline-size: 100%;
   block-size: 100%;
 }
@@ -94,6 +94,7 @@ ol {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  padding-bottom: 7px;
 }
 
 .search-form__fieldset {
@@ -127,7 +128,7 @@ ol {
   min-inline-size: 225px;
   min-block-size: 27px;
   color: rgb(255, 255, 255);
-  font-family: Fira Sans Condensed, Arial, sans-serif;
+  font-family: "Fira Sans Condensed", Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -182,7 +183,7 @@ ol {
   border: 1px solid currentColor;
   color: #fff;
   text-align: center;
-  font-family: Fira Sans Condensed, Arial, sans-serif;
+  font-family: "Fira Sans Condensed", Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
